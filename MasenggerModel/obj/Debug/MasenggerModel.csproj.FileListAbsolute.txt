@@ -1,0 +1,17 @@
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\bin\Debug\MasenggerModel.dll
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\bin\Debug\MasenggerModel.pdb
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\obj\Debug\MasenggerModel.csprojAssemblyReference.cache
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\obj\Debug\MasenggerModel.csproj.CoreCompileInputs.cache
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\obj\Debug\MasenggerModel.dll
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\obj\Debug\MasenggerModel.pdb
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\bin\Debug\Newtonsoft.Json.dll
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\bin\Debug\Newtonsoft.Json.xml
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\MasenggerModel\obj\Debug\MasenggerModel.csproj.CopyComplete
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\bin\Debug\MasenggerModel.dll
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\bin\Debug\MasenggerModel.pdb
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\bin\Debug\Newtonsoft.Json.xml
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\obj\Debug\MasenggerModel.csprojAssemblyReference.cache
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\obj\Debug\MasenggerModel.csproj.CoreCompileInputs.cache
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\obj\Debug\MasenggerModel.csproj.CopyComplete
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\obj\Debug\MasenggerModel.dll
+F:\ianso\Documents\UANL\FCFM\7to Semestre\POI\Masengger2.0\MasenggerModel\obj\Debug\MasenggerModel.pdb
